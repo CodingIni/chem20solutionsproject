@@ -96,7 +96,7 @@
     padding: 25px;
     margin-bottom: 30px; /* Space between boxes */
     width: 90%;
-    max-width: 700px;
+    max-width: 1000px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     text-align: center;
 }
@@ -143,7 +143,7 @@
 /* Style the boxes so they don't stretch to the very edges */
 .section-box {
     width: 100%;
-    max-width: 700px; /* Limits width for better readability */
+    max-width: 1000px; /* Limits width for better readability */
     background: white;
     padding: 20px;
     margin-bottom: 20px;

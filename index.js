@@ -1,6 +1,6 @@
 document.querySelectorAll('nav-bar').forEach(link => {
   link.addEventListener('click', function(e) {
-    e.preventDefault(); // Stop the page reload
+    e.preventDefault(); 
     const page = this.getAttribute('href');
     
     fetch(page)
